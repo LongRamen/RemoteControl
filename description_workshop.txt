@@ -1,0 +1,6 @@
+Adds a Remote Control to help you trigger things without having to wire them up to a switch first.
+
+Left click: activate a wire (works with pumps/teleporters)
+Right click: trigger a mechanism (torches, lights, statues, traps, explosives, toilets etc.)
+
+Sold by the Mechanic for 2 gold, 50 silver.

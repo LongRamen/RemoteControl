@@ -1,0 +1,10 @@
+Items: {
+	RemoteControlItem: {
+		DisplayName: Remote Control
+		Tooltip:
+			'''
+			<left> to activate a wire
+			<right> to trigger a mechanism
+			'''
+	}
+}
