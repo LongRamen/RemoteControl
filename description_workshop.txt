@@ -4,3 +4,5 @@ Left click: activate a wire (works with pumps/teleporters)
 Right click: trigger a mechanism (torches, lights, statues, traps, explosives, toilets etc.)
 
 Sold by the Mechanic for 2 gold, 50 silver.
+
+Github: https://github.com/LongRamen/RemoteControl
